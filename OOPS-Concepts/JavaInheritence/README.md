@@ -24,3 +24,11 @@ In Java, Inheritence is classified into different types:
 3. Heirarchial Inheritence
 4. Hybrid Inheritence
 5. Multiple Inheritence (Not supports in Java)
+
+### Inheritence Access Specifier
+
+The child class can only access the data memebers and methods of the parent class
+only if the access specifiers are public or protected. The private access specifiers in the
+parent class cannot inherit.
+
+Note: The final classes are not able to perfrom the inheritence.
