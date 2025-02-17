@@ -153,3 +153,12 @@ It is a process by which compiler ensures that the exception is handled somewher
 
 ### Throws Keyword
 The throws keyword is used to handle checked exceptions. As we learned in the previous article that exceptions are of two types: checked and unchecked. Checked exception (compile time) needs to be handled else the program won’t compile. On the other hand unchecked exception (Runtime) doesn’t get checked during compilation. Throws keyword is used for handling checked exceptions. You can declare multiple exceptions using throws keyword.
+
+Generally, the trows keyword is used with the method signatures or declarations, that explains that the method can 
+throw one or more exceptions. This informs the caller method to handle the exceptions either with try-catch block 
+or propagate the exception to the further call stack.
+
+Explanation
+Purpose: To declare that a method can throw specific exceptions.
+Usage: Placed in the method signature after the parameter list.
+Effect: Forces the caller to handle the declared exceptions.
