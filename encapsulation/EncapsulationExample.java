@@ -43,6 +43,9 @@ public class EncapsulationExample {
         EncapsulationTest obj = new EncapsulationTest();
         obj.setId(100);
         obj.setName("Kalyan");
-        obj.
+        obj.setRating(9.8f);
+
+        System.out.println(obj);
+
     }
 }
