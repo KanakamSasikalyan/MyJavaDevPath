@@ -13,6 +13,8 @@
       <sourceFolder url="file://$MODULE_DIR$/oops-introduction" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/polymorphism" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/static-dynamic-binding" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/abstract-interfaces" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/encapsulation" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
